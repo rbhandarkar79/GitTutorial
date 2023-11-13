@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 upfates changes in master updated Hi Hello
+=======
+new code changes updated Hi Hello
+>>>>>>> newBranch2
